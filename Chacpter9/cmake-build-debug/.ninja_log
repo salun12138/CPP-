@@ -1,0 +1,11 @@
+# ninja log v5
+2	437	7390864263308438	CMakeFiles/text1.dir/text1/main.cpp.obj	6bcf349852c204e7
+0	323	7390976721025262	CMakeFiles/text3.dir/text3/staticnew.cpp.obj	e238ba7fa2dea374
+9	434	7390864263277789	CMakeFiles/text1.dir/text1/golf.cpp.obj	c026cbaf1240f8c8
+437	604	7390864264932140	text1.exe	70fcc2e373bb7a1
+1	410	7390962262773579	CMakeFiles/text2.dir/text2/static.cpp.obj	b03f8872396adc31
+413	600	7390962264680019	text2.exe	c7804a91a22103f3
+324	481	7390976722515573	text3.exe	a346ce3fb6a9af01
+8	368	7391002844131309	CMakeFiles/text4.dir/text4/main.cpp.obj	41145d67ad81c26c
+0	371	7391002844161890	CMakeFiles/text4.dir/text4/sales.cpp.obj	78922992d56b8787
+371	543	7391002845792531	text4.exe	21ca83534b9eaef0

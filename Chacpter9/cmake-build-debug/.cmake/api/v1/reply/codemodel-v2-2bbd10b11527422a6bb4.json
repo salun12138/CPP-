@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chacpter9",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "text1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text1-Debug-80f67dd13347d52b0500.json",
+					"name" : "text1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text2-Debug-989c668bd6c2b71f3515.json",
+					"name" : "text2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text3-Debug-944472d01be931180c1e.json",
+					"name" : "text3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text4-Debug-693fdcfc15ad466d81f5.json",
+					"name" : "text4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/WorkSpace/Practices/Chacpter9/cmake-build-debug",
+		"source" : "D:/WorkSpace/Practices/Chacpter9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
