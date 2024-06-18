@@ -1,0 +1,16 @@
+# ninja log v5
+1	364	7398738662552491	CMakeFiles/test1.dir/test1/main.cpp.obj	67c6325358dbdf6a
+1	368	7398739094734702	CMakeFiles/test1.dir/test1/vect.cpp.obj	e0016140c3402fec
+0	560	7398760619403847	CMakeFiles/test2.dir/test2/vect.cpp.obj	ba5ba68a1a9acf01
+6	451	7398820399731085	CMakeFiles/test3.dir/test2/vect.cpp.obj	e795b4d5251e2f1d
+368	532	7398739096211565	test1.exe	86e8f822684feede
+8	496	7398760618667336	CMakeFiles/test2.dir/test2/randwalk.cpp.obj	5eade9f60727ab7c
+561	950	7398760622312201	test2.exe	d24c9ac36be9bd7e
+0	412	7398820399359357	CMakeFiles/test3.dir/test3/randwalk.cpp.obj	a6a8783ad7ac65ee
+451	640	7398820401537337	test3.exe	b13070d78a93d155
+0	902	7403098381717633	CMakeFiles/test4.dir/test4/main.cpp.obj	5b55f83f20285525
+9	905	7403098381748593	CMakeFiles/test4.dir/test4/mytime3.cpp.obj	dae7835c7d82ffa0
+905	1409	7403098386759169	test4.exe	ccd65c19836a1b21
+0	426	7403277359695713	CMakeFiles/test7.dir/test7/main.cpp.obj	68487ec9c6ffc59b
+9	428	7403277359725393	CMakeFiles/test7.dir/test7/Complex.cpp.obj	1d2d2f651395ef21
+428	621	7403277361570957	test7.exe	c3c02a3dc1e3d28d
