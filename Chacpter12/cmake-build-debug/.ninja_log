@@ -1,0 +1,14 @@
+# ninja log v5
+2	553	7404643707489948	build.ninja	f7315a9d28b2507c
+1	385	7403999566922379	CMakeFiles/test2.dir/test2/String2.cpp.obj	de3069be1b66a9e3
+7	391	7404027700244299	CMakeFiles/test3.dir/test3/main.cpp.obj	a1a04dab73ea1e01
+5	445	7403964525028147	CMakeFiles/test1.dir/test1/main.cpp.obj	2f0cc2c20faccac7
+0	396	7404027700304307	CMakeFiles/test3.dir/test3/Stock.cpp.obj	43c0824636d64f50
+2	403	7403966044040430	CMakeFiles/test1.dir/test1/Cow.cpp.obj	254fd384f19ed0f0
+404	618	7403966045972790	test1.exe	a3f99472b844bccc
+7	376	7403999566831839	CMakeFiles/test2.dir/test2/main.cpp.obj	9a09255505da6945
+434	655	7404627573826370	test4.exe	fb4fe66b4cafc713
+386	591	7403999568834234	test2.exe	5d100a6ec6ee8747
+397	568	7404027701962535	test3.exe	215a7f7afee7ca40
+1	1289	7404627166871158	CMakeFiles/test4.dir/test4/main.cpp.obj	6644d5f2a078e4b5
+2	433	7404627571696387	CMakeFiles/test4.dir/test4/Stack.cpp.obj	6a637ad48e76a0fe

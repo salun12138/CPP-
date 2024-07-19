@@ -1,0 +1,133 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0/include",
+						"D:/Library/C++/include",
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0/include-fixed",
+						"D:/Library/C++/mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0",
+						"D:/Library/C++/lib/gcc",
+						"D:/Library/C++/mingw32/lib",
+						"D:/Library/C++/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "D:/Library/C++/bin/gcc.exe",
+				"version" : "6.3.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0/include/c++",
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0/include/c++/mingw32",
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0/include/c++/backward",
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0/include",
+						"D:/Library/C++/include",
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0/include-fixed",
+						"D:/Library/C++/mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/Library/C++/lib/gcc/mingw32/6.3.0",
+						"D:/Library/C++/lib/gcc",
+						"D:/Library/C++/mingw32/lib",
+						"D:/Library/C++/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "D:/Library/C++/bin/c++.exe",
+				"version" : "6.3.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/Library/C++/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
